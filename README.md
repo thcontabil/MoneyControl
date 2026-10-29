@@ -1,2 +1,2 @@
-# MoneyControl
-Controle financeiro 
+# MoneyControll
+app de controle financeiro
